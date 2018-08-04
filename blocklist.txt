@@ -24,6 +24,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.unanimis.co.uk
 0.0.0.0 a.watershed-publishing.com
+0.0.0.0 a0.raidrush.org
 0.0.0.0 a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 0.0.0.0 a2a.lockerz.com
 0.0.0.0 aa.avvo.com
@@ -47,32 +48,38 @@
 0.0.0.0 activities.niagara.comedycentral.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 activity.homescape.com
+0.0.0.0 ad.71i.de
 0.0.0.0 ad.about.co.kr
 0.0.0.0 ad.accessmediaproductions.com
 0.0.0.0 ad.bitmedia.io
+0.0.0.0 ad.bwise.ch
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.crichd.in
 0.0.0.0 ad.digitimes.com.tw
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.download.cnet.com
+0.0.0.0 ad.dslr-forum.de
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.evozi.com
 0.0.0.0 ad.flux.com
 0.0.0.0 ad.fnnews.com
 0.0.0.0 ad.foxnetworks.com
+0.0.0.0 ad.games.ch
 0.0.0.0 ad.icasthq.com
 0.0.0.0 ad.idgtn.net
 0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 ad.itweb.co.za
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.com
+0.0.0.0 ad.jaumo.com
 0.0.0.0 ad.khan.co.kr
 0.0.0.0 ad.kissanime.io
 0.0.0.0 ad.kisscartoon.io
 0.0.0.0 ad.livere.co.kr
 0.0.0.0 ad.lyricswire.com
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.main-netz.de
 0.0.0.0 ad.mangareader.net
 0.0.0.0 ad.mediabong.net
 0.0.0.0 ad.mesomorphosis.com
@@ -82,6 +89,7 @@
 0.0.0.0 ad.pandora.tv
 0.0.0.0 ad.pickple.net
 0.0.0.0 ad.proxy.sh
+0.0.0.0 ad.putenbrust.net
 0.0.0.0 ad.r.worldssl.net
 0.0.0.0 ad.rambler.ru
 0.0.0.0 ad.reachlocal.com
@@ -98,6 +106,7 @@
 0.0.0.0 ad.vidaroo.com
 0.0.0.0 ad.winningpartner.com
 0.0.0.0 ad7.bigmir.net
+0.0.0.0 adbl.spieletipps.de
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
@@ -116,6 +125,7 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 admeta.vo.llnwd.net
 0.0.0.0 adn.ebay.com
+0.0.0.0 adn.meinsol.de
 0.0.0.0 adp1.mac-torrent-download.net
 0.0.0.0 adplus.goo.mx
 0.0.0.0 adr-*.vindicosuite.com
@@ -385,6 +395,7 @@
 0.0.0.0 asd.projectfreetv.so
 0.0.0.0 aserve.directorym.com
 0.0.0.0 ashot.txxx.com
+0.0.0.0 assets.oomz.de
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 atarshaboor.com
 0.0.0.0 atax.gamermetrics.com
@@ -392,6 +403,7 @@
 0.0.0.0 atax.gamestats.com
 0.0.0.0 atax.ign.com
 0.0.0.0 atax.teamxbox.com
+0.0.0.0 ate.spritmonitor.de
 0.0.0.0 athena.mysmartprice.info
 0.0.0.0 athenatmpbeacon.theglobeandmail.ca
 0.0.0.0 atlas.astrology.com
@@ -437,7 +449,9 @@
 0.0.0.0 banner.101xp.com
 0.0.0.0 banner.3ddownloads.com
 0.0.0.0 banner.automotiveworld.com
+0.0.0.0 banner.click-tt.de
 0.0.0.0 banner.europacasino.com
+0.0.0.0 banner.immowelt.de
 0.0.0.0 banner.itweb.co.za
 0.0.0.0 banner.telefragged.com
 0.0.0.0 banner.titancasino.com
@@ -512,6 +526,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bidoraln.com
 0.0.0.0 bigboy.eurogamer.net
+0.0.0.0 bildwl.mobile.de
 0.0.0.0 bit.ehow.com
 0.0.0.0 bitdash-reporting.appspot.com
 0.0.0.0 bizanti.youwatch.org
@@ -523,6 +538,7 @@
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bluhostedbanners.blucigs.com
 0.0.0.0 bn.adultempire.com
+0.0.0.0 bn.gewinn24.de
 0.0.0.0 bnr.alza.cz
 0.0.0.0 bnrs.ilm.ee
 0.0.0.0 bob.crazyshit.com
@@ -541,6 +557,7 @@
 0.0.0.0 br.blackfling.com
 0.0.0.0 br.fling.com
 0.0.0.0 br.realitykings.com
+0.0.0.0 branchenbuch.pixelio.de
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 brcache.madthumbs.com
 0.0.0.0 bright.bncnt.com
@@ -599,8 +616,11 @@
 0.0.0.0 cct2.o2online.de
 0.0.0.0 cd.musicmass.com
 0.0.0.0 cdn-analytics.ladmedia.fr
+0.0.0.0 cdn1.anime-stream24.com
+0.0.0.0 cdn11.anime-stream24.com
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 ce.lijit.com
+0.0.0.0 ced.sascdn.com
 0.0.0.0 cellstats.mako.co.il
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 cerebral.typn.com
@@ -722,6 +742,7 @@
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 confirm-referer.glrsales.com
+0.0.0.0 connect.quoka.de
 0.0.0.0 connect.summit.co.uk
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 contadores.bolsamania.com
@@ -1284,6 +1305,7 @@
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
 0.0.0.0 experience.contextly.com
+0.0.0.0 ext.platinnetz.de
 0.0.0.0 ext.theglobalweb.com
 0.0.0.0 extszm.web.de
 0.0.0.0 f.staticlp.com
@@ -1291,6 +1313,7 @@
 0.0.0.0 fan.twitch.tv
 0.0.0.0 farfarida.com
 0.0.0.0 fast.forbes.com
+0.0.0.0 fastad.beepworld.de
 0.0.0.0 fastcounter.bcentral.com
 0.0.0.0 fastcounter.onlinehoster.net
 0.0.0.0 fb_servpub-a.akamaihd.net
@@ -1340,6 +1363,7 @@
 0.0.0.0 ga.webdigi.co.uk
 0.0.0.0 gameads.digyourowngrave.com
 0.0.0.0 gamzetov.com
+0.0.0.0 gan.wavecdn.net
 0.0.0.0 gashot.yurivideos.com
 0.0.0.0 gateway.fortunelounge.com
 0.0.0.0 gateways.s3.amazonaws.com
@@ -1415,6 +1439,7 @@
 0.0.0.0 golokavi.com
 0.0.0.0 gramombird.com
 0.0.0.0 green-griffin-860.appspot.com
+0.0.0.0 green.ingame.de
 0.0.0.0 green.virtual-nights.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gstat.orange.fr
@@ -1431,9 +1456,11 @@
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 heartbeat.flickr.com
 0.0.0.0 heavenmedia.v3g4s.com
+0.0.0.0 heisebanner.geizhals.at
 0.0.0.0 hejban.youwatch.org
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
+0.0.0.0 highspeed.duckcrypt.info
 0.0.0.0 hirovivi.com
 0.0.0.0 hit-pool.upscore.io
 0.0.0.0 hit.dogannet.tv
@@ -1473,6 +1500,7 @@
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iframe.travel.yahoo.com
 0.0.0.0 im.aol.de
+0.0.0.0 im.banner.t-online.de
 0.0.0.0 im.ov.yahoo.co.jp
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 imads.rediff.com
@@ -1525,6 +1553,7 @@
 0.0.0.0 k.streamrail.com
 0.0.0.0 k2team.kyiv.ua
 0.0.0.0 kaidop.com
+0.0.0.0 kalaydo.fnp.de
 0.0.0.0 kalmloda.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 karma.mdpcdn.com
@@ -1538,7 +1567,10 @@
 0.0.0.0 kilomansa.com
 0.0.0.0 kilorama.com
 0.0.0.0 kinesisproxy.hearstlabs.com
+0.0.0.0 kinoprogramm.bild.de
 0.0.0.0 kirilaboola.com
+0.0.0.0 kka.agitos.de
+0.0.0.0 kka.idg.de
 0.0.0.0 kokilopi.com
 0.0.0.0 kolimanq.com
 0.0.0.0 koltruah.com
@@ -1562,6 +1594,7 @@
 0.0.0.0 l.sharethis.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
+0.0.0.0 layer.lima-city.de
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 leaddyno-client-images.s3.amazonaws.com
 0.0.0.0 leadtracking.plumvoice.com
@@ -1676,6 +1709,7 @@
 0.0.0.0 m.trb.com
 0.0.0.0 mads.aol.com
 0.0.0.0 mads.dailymail.co.uk
+0.0.0.0 mafia-banner.myftp.org
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
 0.0.0.0 maik.ff-bt.net
 0.0.0.0 mailmunch.s3.amazonaws.com
@@ -1697,6 +1731,7 @@
 0.0.0.0 mbid.advance.net
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs.delvenetworks.com
+0.0.0.0 mdlbs.motor-talk.de
 0.0.0.0 mdsngpush.finanzen.net
 0.0.0.0 mealsandsteals.sandiego6.com
 0.0.0.0 measure.ameblo.jp
@@ -1704,6 +1739,8 @@
 0.0.0.0 media-delivery.armorgames.com
 0.0.0.0 media-mgmt.armorgames.com
 0.0.0.0 media-system.maltatoday.com.mt
+0.0.0.0 media.alphaload.com
+0.0.0.0 media.onlinewelten.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 mediator.mail.ru
@@ -1817,8 +1854,11 @@
 0.0.0.0 net.haier.com
 0.0.0.0 netspidermm.indiatimes.com
 0.0.0.0 network.aufeminin.com
+0.0.0.0 network.bildderfrau.de
 0.0.0.0 network.business.com
+0.0.0.0 network.gofeminin.de
 0.0.0.0 network.sofeminine.co.uk
+0.0.0.0 network2.aufeminin.com
 0.0.0.0 newsletter.bdnews24.com
 0.0.0.0 newsletters.vocento.com
 0.0.0.0 nidorivo.com
@@ -1874,7 +1914,11 @@
 0.0.0.0 ox-d.sbnation.com
 0.0.0.0 ox-d.wetransfer.com
 0.0.0.0 ox-i.cordillera.tv
+0.0.0.0 ox.comventure.de
 0.0.0.0 ox.furaffinity.net
+0.0.0.0 ox.gassi-tv.de
+0.0.0.0 ox.immobilo.de
+0.0.0.0 ox.videobuster.de
 0.0.0.0 ox2.pron.tv
 0.0.0.0 ox3.pron.tv
 0.0.0.0 p-log.ykimg.com
@@ -1894,10 +1938,15 @@
 0.0.0.0 partner.bargaindomains.com
 0.0.0.0 partner.catchy.com
 0.0.0.0 partner.cynapse.com
+0.0.0.0 partner.dasoertliche-marketing.de
+0.0.0.0 partner.maxxim.de
 0.0.0.0 partner.premiumdomains.com
+0.0.0.0 partner.simplytel.de
+0.0.0.0 partner.teufel.de
 0.0.0.0 partner.worldoftanks.com
 0.0.0.0 partners-z.com
 0.0.0.0 partners.badongo.com
+0.0.0.0 partners.eatsmarter.de
 0.0.0.0 partners.etoro.com
 0.0.0.0 partners.fshealth.com
 0.0.0.0 partners.keezmovies.com
@@ -2041,6 +2090,8 @@
 0.0.0.0 promo.fileforum.com
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
+0.0.0.0 promotion.mmxlive.com
+0.0.0.0 promotionmaterial.betacash.com
 0.0.0.0 promotions.iasbet.com
 0.0.0.0 prophet.heise.de
 0.0.0.0 proxypage.msn.com
@@ -2443,6 +2494,7 @@
 0.0.0.0 stat4.edev.at
 0.0.0.0 statdb.pressflex.com
 0.0.0.0 static.kinghost.com
+0.0.0.0 static.top-hitz.com
 0.0.0.0 static.tucsonsentinel.com
 0.0.0.0 statistic.qzone.qq.com
 0.0.0.0 statistic.takungpao.com
@@ -2925,6 +2977,8 @@
 0.0.0.0 tracker2.apollo-mail.net
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackerstatistik.init-ag.de
+0.0.0.0 trackfox.com
+0.0.0.0 trackfox2.com
 0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.allposters.com
@@ -3160,11 +3214,13 @@
 0.0.0.0 vtracking.in.com
 0.0.0.0 vtrtl.de
 0.0.0.0 w.homes.yahoo.net
+0.0.0.0 w.online-verlag-freiburg.de
 0.0.0.0 w88.espn.com
 0.0.0.0 w88.go.com
 0.0.0.0 w88.m.espn.go.com
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wa.ui-portal.de
+0.0.0.0 waiwidgets-*.amazonaws.com
 0.0.0.0 wakapita.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 warp.prnewswire.co.uk
@@ -3212,6 +3268,8 @@
 0.0.0.0 widget.shopstyle.com.au
 0.0.0.0 widget.solarquotes.com.au
 0.0.0.0 widgets.comcontent.net
+0.0.0.0 widgets.goldankauf123.de
+0.0.0.0 widgets.mywai.de
 0.0.0.0 widgets.realestate.com.au
 0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 widgetssec.cam-content.com
@@ -3219,6 +3277,7 @@
 0.0.0.0 winter.metacafe.com
 0.0.0.0 wl.jd.com
 0.0.0.0 wlpinnaclesports.eacdn.com
+0.0.0.0 wm-space.youero.com
 0.0.0.0 wodipaca.com
 0.0.0.0 wodizapt.com
 0.0.0.0 woolik.com*tracker
@@ -3241,10 +3300,12 @@
 0.0.0.0 x.bloggurat.net
 0.0.0.0 x.castanet.net
 0.0.0.0 x.eroticity.net
+0.0.0.0 x.technic3d.biz
 0.0.0.0 x.vipergirls.to
 0.0.0.0 x.weather.com
 0.0.0.0 xara.hse24.de
 0.0.0.0 xeozir.com
+0.0.0.0 xobor.miranus.com
 0.0.0.0 yaboshadi.com
 0.0.0.0 yallboen.com
 0.0.0.0 yast.rutube.ru
