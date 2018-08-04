@@ -1,5 +1,5 @@
 # Download AdBlock Lists (EasyList, EasyPrivacy, Fanboy Annoyance / Social Blocking)
-curl -s -L https://easylist.to/easylist/easylist.txt https://easylist.to/easylist/easyprivacy.txt https://easylist.to/easylist/fanboy-annoyance.txt https://easylist.to/easylist/fanboy-social.txt > adblock.unsorted
+curl -s -L https://easylist.to/easylist/easylist.txt https://easylist.to/easylist/easyprivacy.txt https://easylist.to/easylist/fanboy-annoyance.txt https://easylist.to/easylist/fanboy-social.txt https://easylist.to/easylistgermany/easylistgermany.txt > adblock.unsorted
 
 # Look for: ||domain.tld^
 sort -u adblock.unsorted | grep ^\|\|.*\^$ | grep -v \/ > adblock.sorted
