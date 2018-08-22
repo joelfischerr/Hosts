@@ -11,5 +11,7 @@ sed 's/[\|^]//g' < adblock.sorted > blocklist.txt
 # Add 0.0.0.0 at the beginning of every line  https://stackoverflow.com/questions/2099471/add-a-prefix-string-to-beginning-of-each-line
 sed -i -e 's/^/0.0.0.0 /' blocklist.txt
 
+curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.txt
+
 # Remove files we no longer need
 rm adblock.unsorted adblock.sorted blocklist.txt-e
