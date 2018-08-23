@@ -20,7 +20,7 @@ sed -i -e 's/^/0.0.0.0 /' blocklist.temp
 
 printf "Integrate Steven Blacks list\n"
 # Integrate Steven Blacks list
-curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts >> blocklist.temp
 
 printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
