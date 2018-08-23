@@ -33,9 +33,11 @@ sort -u blocklist.temp > blocklist.txt
 
 printf "Remove all trailing whitespace and all comments from the file\n"
 # Remove all comments from the file
-sed -i '' '/^$/d' blocklist.txt # Removes all empty lines
 sed -i '' 's|^[[:blank:]]*||g' blocklist.txt # Removes all tabs and spaces
 sed -i '' '/^\s*#/ d' blocklist.txt # Removes all lines starting with #
+sed -i '' '/^\s*#/ d' blocklist.txt # Removes all lines starting with #
+sed -i '' '/^\(0.0.0.0 \)/!d' blocklist.txt # Removes all lines not starting with 0.0.0.0 
+sed -i '' '/^$/d' blocklist.txt # Removes all empty lines
 
 printf "Remove files we no longer need\n"
 # Remove files we no longer need
