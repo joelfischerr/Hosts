@@ -19496,6 +19496,7 @@
 0.0.0.0 da.netease.com
 0.0.0.0 da.newstogram.com
 0.0.0.0 da.virginmedia.com
+0.0.0.0 da3uf5ucdz00u.cloudfront.net
 0.0.0.0 da47071cac00c4342.com
 0.0.0.0 da5w2k479hyx2.cloudfront.net
 0.0.0.0 daaa.ero-advertising.com
@@ -27578,6 +27579,7 @@
 0.0.0.0 gghhzzllakjm.bid
 0.0.0.0 ggiaro.com
 0.0.0.0 gglcash4u.info
+0.0.0.0 ggohobe.com
 0.0.0.0 ggrjihzgtdxutg.bid
 0.0.0.0 ggspy.com
 0.0.0.0 ggt-emsstrom.de
@@ -33635,6 +33637,7 @@
 0.0.0.0 ks2-de.travian.com
 0.0.0.0 ks4-com.travian.com
 0.0.0.0 ksbingo.com
+0.0.0.0 ksbnmsxnskx.com
 0.0.0.0 ksdremwtrust.org
 0.0.0.0 kserv.krldysh.ru
 0.0.0.0 kses.pl
@@ -37036,6 +37039,7 @@
 0.0.0.0 medmajor.ru
 0.0.0.0 medobjekt.de
 0.0.0.0 medon-beta.beta.aviasales.ru
+0.0.0.0 medonohley.com
 0.0.0.0 medosmotr-ufa.ru
 0.0.0.0 medpop.oewabox.at
 0.0.0.0 medrx.sensis.com.au
@@ -61147,6 +61151,7 @@
 0.0.0.0 whitepower.com
 0.0.0.0 whiteproduct.com
 0.0.0.0 whiterabbits-developer-edition.na30.force.com
+0.0.0.0 whitesboromcbee.com
 0.0.0.0 whiteworldtech.com
 0.0.0.0 whm.siliconorchard.com
 0.0.0.0 whoads.net
