@@ -27,7 +27,7 @@ printf "Block Facebook but not Instagram and WhatsApp\n"
 curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/tfbnw https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/other https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/main https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/fbcdn.net https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/facebook.com >> blocklist.temp
 
 printf "Add my own file called Additional.txt"
-paste Additional.txt blocklist.temp > blocklist.temp
+cat Additional.txt >> blocklist.temp
 
 printf "Sort the file and remove all duplicates\n"
 # Sort the file and remove all duplicates
