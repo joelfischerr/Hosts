@@ -26,6 +26,9 @@ printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
 curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/tfbnw https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/other https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/main https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/fbcdn.net https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/facebook.com >> blocklist.temp
 
+printf "Add my own file called Additional.txt"
+paste Additional.txt blocklist.temp > blocklist.temp
+
 printf "Sort the file and remove all duplicates\n"
 # Sort the file and remove all duplicates
 sort -u blocklist.temp > blocklist.txt
@@ -36,7 +39,7 @@ printf "Remove all trailing whitespace and all comments from the file\n"
 sed -i '' 's|^[[:blank:]]*||g' blocklist.txt # Removes all tabs and spaces
 sed -i '' '/^\s*#/ d' blocklist.txt # Removes all lines starting with #
 sed -i '' '/^\s*#/ d' blocklist.txt # Removes all lines starting with #
-sed -i '' '/^\(0.0.0.0 \)/!d' blocklist.txt # Removes all lines not starting with 0.0.0.0 
+sed -i '' '/^\(0.0.0.0 \)/!d' blocklist.txt # Removes all lines not starting with 0.0.0.0
 sed -i '' '/^$/d' blocklist.txt # Removes all empty lines
 
 printf "Remove files we no longer need\n"
