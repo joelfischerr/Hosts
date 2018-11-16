@@ -28,9 +28,9 @@ curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> b
 printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
 curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/tfbnw https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/other https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/main https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/fbcdn.net https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/facebook.com >> blocklist.temp
-curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/facebook.com https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fb https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fbcdn.net https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/instagram https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/main https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/other https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/tfbnw >> blocklist.temp
 
-printf "Add my own file called Additional.txt"
+printf "Add my own file called Additional.txt\n"
 cat Additional.txt >> blocklist.temp
 
 printf "Sort the file and remove all duplicates\n"
