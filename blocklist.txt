@@ -29833,7 +29833,6 @@
 0.0.0.0 iphone.stage-two.heyzap.com
 0.0.0.0 iphonegames3g.com
 0.0.0.0 iphoneps.leadpages.co
-0.0.0.0 ipify.org
 0.0.0.0 ipintu.com.cn
 0.0.0.0 ipl.hk
 0.0.0.0 ipl2xbja-android.mobile-sdk-api.intercom.io
