@@ -21,9 +21,10 @@ printf "Add 0.0.0.0 at the beginning of every line\n"
 # Add 0.0.0.0 at the beginning of every line  https://stackoverflow.com/questions/2099471/add-a-prefix-string-to-beginning-of-each-line
 sed -i -e 's/^/0.0.0.0 /' blocklist.temp
 
-printf "Integrate Steven Blacks list\n"
+
 # Integrate Steven Blacks list
-curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.temp
+# printf "Integrate Steven Blacks list\n"
+# curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.temp
 
 printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
