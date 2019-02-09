@@ -3,6 +3,7 @@
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1mp.mobi
 0.0.0.0 2-edge-chat.facebook.com
+0.0.0.0 20min.ch
 0.0.0.0 247realmedia.com
 0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
 0.0.0.0 2o7.net
@@ -24,6 +25,7 @@
 0.0.0.0 abbott.vo.llnwd.net
 0.0.0.0 abnad.net
 0.0.0.0 abroad-ad.kingsoft-office-service.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ad*.nexage.com
@@ -114,7 +116,6 @@
 0.0.0.0 adotsolution.com
 0.0.0.0 adotube.com
 0.0.0.0 adplatform.vrtcal.com
-0.0.0.0 adplay.vm5apis.com
 0.0.0.0 adprotected.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
@@ -172,6 +173,7 @@
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
 0.0.0.0 adsmoloco.com
+0.0.0.0 adsnative.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adspirit.de
 0.0.0.0 adspynet.com
@@ -713,6 +715,7 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmplay.did.ijinshan.com
+0.0.0.0 cname01.cryptolootminer.com
 0.0.0.0 cnt.my
 0.0.0.0 code.facebook.com
 0.0.0.0 coin-hive.com
@@ -741,6 +744,7 @@
 0.0.0.0 crasheye.cn
 0.0.0.0 crispadvertising.com
 0.0.0.0 crossboardmobile.com
+0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crossrider.com
@@ -757,12 +761,13 @@
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 da-ads.com
 0.0.0.0 dante2007.com
-0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.*.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 dc.altamob.com
 0.0.0.0 dc.altmob.com
 0.0.0.0 dc.webtrends.com
+0.0.0.0 de.ioam.de
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
@@ -1127,6 +1132,7 @@
 0.0.0.0 gigamega.su
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitial.com
 0.0.0.0 go.mobstitialtag.com
@@ -1136,11 +1142,13 @@
 0.0.0.0 goodadvert.ru
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
 0.0.0.0 greystripe.com
 0.0.0.0 grt02.com
 0.0.0.0 grt03.com
@@ -1294,6 +1302,7 @@
 0.0.0.0 lgse.com
 0.0.0.0 lhzbdvm.com
 0.0.0.0 liftdna.com
+0.0.0.0 liftoff.io
 0.0.0.0 ligatus.com
 0.0.0.0 listat.biz
 0.0.0.0 live.hyprmx.com
@@ -1818,10 +1827,12 @@
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 syndication.trafficreps.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t3q7af0z.com
+0.0.0.0 tagesanzeiger.ch
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
@@ -1869,6 +1880,7 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.tagesanzeiger.ch
+0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.adotmob.com
@@ -1886,6 +1898,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.viewster.com
+0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 traff10wap.com
 0.0.0.0 trafficjunky.net
@@ -1935,6 +1948,7 @@
 0.0.0.0 vindicosuite.com
 0.0.0.0 vipcpms.com
 0.0.0.0 visitweb.com
+0.0.0.0 vm5apis.com
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vserv.mobi
@@ -1962,6 +1976,7 @@
 0.0.0.0 www.facebook.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
+0.0.0.0 www.google-analytics.com
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.login.facebook.com
