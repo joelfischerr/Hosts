@@ -7,6 +7,8 @@ curl -s -L https://easylist.to/easylist/easylist.txt https://easylist.to/easylis
 printf "Download from AdguardTeam"
 curl -s -L  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt > adblock.unsorted
 
+printf "Download from someonewhocares"
+curl -s -L  https://someonewhocares.org/hosts/ > adblock.unsorted
 
 printf "Look for: ||domain.tld^\n"
 # Look for: ||domain.tld^
