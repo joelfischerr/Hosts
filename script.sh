@@ -1,9 +1,5 @@
 printf "Update blocklist.txt\n"
 
-printf "Download AdBlock Lists (EasyList, EasyPrivacy, Fanboy Annoyance / Social Blocking)\n"
-# Download AdBlock Lists (EasyList, EasyPrivacy, Fanboy Annoyance / Social Blocking)
-curl -s -L https://easylist.to/easylist/easylist.txt https://easylist.to/easylist/easyprivacy.txt https://easylist.to/easylist/fanboy-annoyance.txt https://easylist.to/easylist/fanboy-social.txt https://easylist.to/easylistgermany/easylistgermany.txt https://easylist-downloads.adblockplus.org/easyprivacy.tpl https://fanboy.co.nz/r/fanboy-complete.txt https://fanboy.co.nz/fanboy-antifacebook.txt > adblock.unsorted
-
 printf "Download from AdguardTeam"
 curl -s -L  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt > adblock.unsorted
 
@@ -25,8 +21,8 @@ sed -i -e 's/^/0.0.0.0 /' blocklist.temp
 
 
 # Integrate Steven Blacks list
-# printf "Integrate Steven Blacks list\n"
-# curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.temp
+printf "Integrate Steven Blacks list\n"
+curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> blocklist.temp
 
 printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
