@@ -14665,6 +14665,8 @@
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 fontoshirek.info
 0.0.0.0 fontostudni.club
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 food-drink-bonuspath.com
 0.0.0.0 food-drink-rewardpath.com
@@ -15165,6 +15167,7 @@
 0.0.0.0 gannett.gcion.com  #[glb.adtechus.com]
 0.0.0.0 gannettbroadcast.us.intellitxt.com
 0.0.0.0 gannettwisconsin.us.intellitxt.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gap.112.2o7.net
 0.0.0.0 gapl.hit.gemius.pl
@@ -16010,6 +16013,7 @@
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guardianlv.us.intellitxt.com
+0.0.0.0 guce.techcrunch.com
 0.0.0.0 guerria-skateboard-tommy.tabrays.com
 0.0.0.0 guest.adultfriendfinder.com
 0.0.0.0 gug.ku6cdn.com
@@ -17021,6 +17025,7 @@
 0.0.0.0 ihdvilappuxpgiv.ru
 0.0.0.0 ihm01.ct2.comclick.com
 0.0.0.0 iictt.m.facebook.com
+0.0.0.0 iid.googleapis.com
 0.0.0.0 iisl7wpf.me
 0.0.0.0 ikcode.baidu.com
 0.0.0.0 il.5.p2l.info
@@ -21421,6 +21426,7 @@
 0.0.0.0 mt58.mtree.com
 0.0.0.0 mt83.mtree.com
 0.0.0.0 mt94.mtree.com
+0.0.0.0 mtalk.google.com
 0.0.0.0 mtccsun.imtech.ernet.in
 0.0.0.0 mtcount.channeladvisor.com
 0.0.0.0 mtldesigns.ca
@@ -23298,6 +23304,7 @@
 0.0.0.0 oszukacruletke.blogspot.com
 0.0.0.0 oszukacruletke.like.pl
 0.0.0.0 ota.cartrawler.com
+0.0.0.0 ota.lokalise.co
 0.0.0.0 otclick-adv.ru
 0.0.0.0 otf.msn.com
 0.0.0.0 other.xxxcounter.com
@@ -24197,6 +24204,7 @@
 0.0.0.0 play.flowplayer.space
 0.0.0.0 play.freebsd.nnna.ru
 0.0.0.0 play.go.cloot.ga
+0.0.0.0 play.googleapis.com
 0.0.0.0 play.gramombird.com
 0.0.0.0 play.heavymetalmachines.com
 0.0.0.0 play.istlandoll.com
@@ -26965,6 +26973,7 @@
 0.0.0.0 sdcexecs.us.intellitxt.com
 0.0.0.0 sdfsf.freecontent.date
 0.0.0.0 sdk-controller.widespace.com
+0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com

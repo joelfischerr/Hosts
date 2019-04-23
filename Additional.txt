@@ -32,6 +32,34 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 tagesanzeiger.ch
 
+0.0.0.0 platform.instagram.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 de.ioam.de
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 analytics.ext.go-tellm.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 app-measurement.com
+0.0.0.0 cname01.cryptolootminer.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 syndication.twitter.com
+0.0.0.0 tagesanzeiger.ch
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 ganon.yahoo.com
+0.0.0.0 guce.techcrunch.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 ota.lokalise.co
+0.0.0.0 play.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 iid.googleapis.com
+0.0.0.0 sdk.accountkit.com
+0.0.0.0 www.googletagservices.com
+
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
