@@ -1,10 +1,15 @@
 printf "Update blocklist.txt\n"
 
-printf "Download from AdguardTeam"
+printf "Download from AdguardTeam\n"
 curl -s -L  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt > adblock.unsorted
 
-printf "Download from someonewhocares"
+printf "Download from someonewhocares\n"
 curl -s -L  https://someonewhocares.org/hosts/ > adblock.unsorted
+
+printf "Download lists.disconnected\n"
+curl -s -L https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt > adblock.unsorted
+curl -s -L https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt > adblock.unsorted
+curl -s -L http://sysctl.org/cameleon/hosts > adblock.unsorted
 
 printf "Look for: ||domain.tld^\n"
 # Look for: ||domain.tld^
@@ -26,8 +31,19 @@ curl -s -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts >> b
 
 printf "Block Facebook but not Instagram and WhatsApp\n"
 # Block Facebook but not Instagram and WhatsApp
-curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/tfbnw https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/other https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/main https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/fbcdn.net https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/facebook.com https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/instagram >> blocklist.temp
-curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/facebook.com https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fb https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fbcdn.net https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/instagram https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/main https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/other https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/tfbnw >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/tfbnw >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/other >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/main >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/fbcdn.net >> blocklist.temp
+curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/facebook.com >> blocklist.temp
+# curl -s -L https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/instagram >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/facebook.com >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fb >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/fbcdn.net >> blocklist.temp
+# curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/instagram >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/main >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/other >> blocklist.temp
+curl -s -L https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/tfbnw >> blocklist.temp
 
 printf "Add my own file called Additional.txt\n"
 cat Additional.txt >> blocklist.temp
