@@ -29,7 +29,19 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 syndication.twitter.com
-0.0.0.0 tagesanzeiger.ch
+0.0.0.0 7o11.app.link
+0.0.0.0 2n8w.test-app.link
+0.0.0.0 2n8w.test-app.link
+0.0.0.0 audibletest-alternate.app.link
+0.0.0.0 w5az-alternate.test-app.link
+0.0.0.0 7o11-alternate.app.link
+0.0.0.0 w5az.test-app.link
+0.0.0.0 2n8w.app.link
+0.0.0.0 etsy-alternate.app.link
+0.0.0.0 etsy.app.link
+0.0.0.0 moodpath-alternate.app.link
+0.0.0.0 w5az.app.link
+0.0.0.0 moodpath.app.link
 
 0.0.0.0 platform.instagram.com
 0.0.0.0 graph.facebook.com
